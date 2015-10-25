@@ -1,0 +1,8 @@
+c:\users\zishan\documents\visual studio 2015\Projects\TestMySQLConn\TestMySQLConn\bin\Debug\TestMySQLConn.exe.config
+C:\Users\Zishan\documents\visual studio 2015\Projects\TestMySQLConn\TestMySQLConn\bin\Debug\TestMySQLConn.exe
+C:\Users\Zishan\documents\visual studio 2015\Projects\TestMySQLConn\TestMySQLConn\bin\Debug\TestMySQLConn.pdb
+C:\Users\Zishan\documents\visual studio 2015\Projects\TestMySQLConn\TestMySQLConn\bin\Debug\MySql.Data.dll
+C:\Users\Zishan\documents\visual studio 2015\Projects\TestMySQLConn\TestMySQLConn\bin\Debug\MySql.Web.dll
+C:\Users\Zishan\documents\visual studio 2015\Projects\TestMySQLConn\TestMySQLConn\obj\Debug\TestMySQLConn.csprojResolveAssemblyReference.cache
+C:\Users\Zishan\documents\visual studio 2015\Projects\TestMySQLConn\TestMySQLConn\obj\Debug\TestMySQLConn.exe
+C:\Users\Zishan\documents\visual studio 2015\Projects\TestMySQLConn\TestMySQLConn\obj\Debug\TestMySQLConn.pdb
